@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .pics{
+    display: flex;
+    flex-direction: row-revers;
+    column-gap: 100px;
+    text-align: center;
+    }
+  #pic1{
+    width: 300px;
+    border: solid;
+    padding: 20px;
+    border-color: blanchedalmond;
+  }
+  #pic2{
+    width: 300px;
+    border: solid;
+    padding: 20px;
+    border-color: blanchedalmond;
+  }
+  #pic3{
+    width: 300px;
+    border: solid;
+    padding: 20px;
+    border-color: blanchedalmond;
+  }
+  #pic4{
+    width: 300px;
+    border: solid;
+    padding: 20px;
+    border-color: blanchedalmond;
+  }
+
